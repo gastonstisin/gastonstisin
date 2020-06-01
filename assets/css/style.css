@@ -1,0 +1,32 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.fondo-naranja {
+  background-color: #ef7d0d;
+}
+
+header {
+  background-image: url('../img/bg-hero.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+  padding-bottom: 10rem;
+  margin-bottom: 5rem;
+}
+
+h2 {
+  font-weight: 700;
+  color: #ef7d0d;
+
+}
+
+#anton-font {
+  font-family: 'Anton', sans-serif;
+}
+
+footer {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
